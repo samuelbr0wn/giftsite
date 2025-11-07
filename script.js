@@ -47,6 +47,14 @@ const items = [
         price: "$35.00",
         category: "Accessories",
         link: "https://www.rei.com/product/247381/goodr-bolt-g-polarized-sunglasses"
+    },
+    {
+        id: 7,
+        name: "Vinyl Records",
+        description: "Surprise me :)",
+        price: "$TBD",
+        category: "Music",
+        link: "https://www.lilliputrecords.com/store"
     }
 ];
 
