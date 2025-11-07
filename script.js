@@ -55,7 +55,15 @@ const items = [
         price: "$TBD",
         category: "Music",
         link: "https://www.lilliputrecords.com/store"
-    }
+    },
+    {
+        id: 8,
+        name: "Cologne Discovery Set",
+        description: "Any sample set of new colognes to try",
+        price: "$TBD",
+        category: "Fragrance",
+        link: "https://www.nordstrom.com/sr?origin=keywordsearch&keyword=cologne%20sample%20set%20men"
+    },
 ];
 
 // Function to create an item card
