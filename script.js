@@ -64,6 +64,22 @@ const items = [
         category: "Fragrance",
         link: "https://www.nordstrom.com/sr?origin=keywordsearch&keyword=cologne%20sample%20set%20men"
     },
+    {
+        id: 9,
+        name: "Long Sleeve Button Up Shirt, Solid Colors, Large",
+        description: "Casual shirts that work for both work and casual settings",
+        price: "$TBD",
+        category: "Clothing",
+        link: "https://www.jcrew.com/plp/mens/categories/clothing/shirts?sub-categories=men-shirts-brokeninoxford,men-shirts-cotton-hemp,men-shirts-secretwash,mens-shirts-seaboard&size=LARGE&sleeve-length=mens-casualshirts-longsleeve"
+    },
+    {
+        id: 10,
+        name: "Casual Tech Pants, Pull-on/drawstring, Large",
+        description: "Easy pants that work like sweatpants but look normal. Straight leg. No joggers. Don't have to be this pair.",
+        price: "$TBD",
+        category: "Clothing",
+        link: "https://shop.lululemon.com/p/men-pants/Ripstop-Pull-On-Pant/_/prod20005107?color=0001"
+    }
 ];
 
 // Function to create an item card
