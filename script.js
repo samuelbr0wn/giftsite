@@ -1,52 +1,52 @@
-// Sample items data - you can modify this array to add/remove/edit items
+
 const items = [
     {
         id: 1,
-        name: "Wireless Headphones",
-        description: "Premium noise-cancelling headphones with 30-hour battery life",
-        price: "$299",
-        category: "Electronics",
-        link: "https://www.example.com/headphones"
+        name: "Scrabble Slam",
+        description: "Card game version of Scrabble.",
+        price: "$8.00",
+        category: "Games",
+        link: "https://store.boardgamebarrister.com/scrabble-slam/"
     },
     {
         id: 2,
-        name: "Coffee Maker",
-        description: "Programmable coffee maker with thermal carafe",
-        price: "$89",
-        category: "Kitchen",
-        link: "https://www.example.com/coffee-maker"
+        name: "Cat in the Box",
+        description: "Card game.",
+        price: "$30.00",
+        category: "Games",
+        link: "https://store.boardgamebarrister.com/cat-in-the-box-deluxe-edition/?searchid=204060&search_query=cat+in+the+box"
     },
     {
         id: 3,
-        name: "Yoga Mat",
-        description: "Eco-friendly non-slip yoga mat with carrying strap",
-        price: "$45",
-        category: "Fitness",
-        link: "https://www.example.com/yoga-mat"
+        name: "Tailored Realities by Brandon Sanderson",
+        description: "Short story collection by Brandon Sanderson",
+        price: "$29.99",
+        category: "Books",
+        link: "https://www.barnesandnoble.com/w/tailored-realities-brandon-sanderson/1146640859?ean=9781250410481"
     },
     {
         id: 4,
-        name: "Book Set",
-        description: "Classic literature collection - 5 hardcover books",
-        price: "$65",
+        name: "Hyperion by Dan Simmons",
+        description: "Science fiction novel, first in the Hyperion Cantos series",
+        price: "$18.99",
         category: "Books",
-        link: "https://www.example.com/books"
+        link: "https://www.barnesandnoble.com/w/hyperion-dan-simmons/1100216988?ean=9780399178610"
     },
     {
         id: 5,
-        name: "Smart Watch",
-        description: "Fitness tracker with heart rate monitor and GPS",
-        price: "$249",
-        category: "Electronics",
-        link: "https://www.example.com/smart-watch"
+        name: "Athletic Shorts, Large, 7inch Inseam",
+        description: "Comfortable athletic shorts with moisture-wicking fabric",
+        price: "$TBD",
+        category: "Clothing",
+        link: "https://www.rei.com/c/mens-shorts?ir=category%3Amens-shorts&r=c%3Bsize%3ALarge%3Binseam-in%3A7"
     },
     {
         id: 6,
-        name: "Cooking Knife Set",
-        description: "Professional 8-piece knife set with wooden block",
-        price: "$159",
-        category: "Kitchen",
-        link: "https://www.example.com/knife-set"
+        name: "Goodr Bolt G Sunglasses",
+        description: "Running/cycling wrap sunglasses",
+        price: "$35.00",
+        category: "Accessories",
+        link: "https://www.rei.com/product/247381/goodr-bolt-g-polarized-sunglasses"
     }
 ];
 
