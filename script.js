@@ -50,11 +50,11 @@ const items = [
     },
     {
         id: 7,
-        name: "Vinyl Records",
-        description: "Surprise me :)",
-        price: "$TBD",
-        category: "Music",
-        link: "https://www.lilliputrecords.com/store"
+        name: "Black Loafers - Size 10D",
+        description: "Use this promo code: E9A92D71E3F21047C ",
+        price: "$87",
+        category: "Clothing",
+        link: "https://www.florsheim.com/shop/style/17058-01.html"
     },
     {
         id: 8,
@@ -87,14 +87,6 @@ const items = [
         price: "$52",
         category: "Gear",
         link: "https://sks-us.com/products/s-board-s-blade-quickrelease-fender-set-for-700c?srsltid=AfmBOoryvIwuX4obkwSg53PinRn3IV4iXpWJqeS1wJHlocfK5JQa5QUR"
-    },
-    {
-        id: 12,
-        name: "Black Loafers - Size 10D",
-        description: "Use this promo code: E9A92D71E3F21047C ",
-        price: "$87",
-        category: "Clothing",
-        link: "https://www.florsheim.com/shop/style/17058-01.html"
     }
 ];
 
