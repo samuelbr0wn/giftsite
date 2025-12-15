@@ -88,6 +88,12 @@ const items = [
         category: "Gear",
         link: "https://sks-us.com/products/s-board-s-blade-quickrelease-fender-set-for-700c?srsltid=AfmBOoryvIwuX4obkwSg53PinRn3IV4iXpWJqeS1wJHlocfK5JQa5QUR"
     }
+    ,    {
+        id: 12,
+        name: "Whatever cool fashion thing you're into right now",
+        description: "If you like it, I'll probably like it.",
+        price: "$TBD",
+        category: "Clothing"}
 ];
 
 // Function to create an item card
