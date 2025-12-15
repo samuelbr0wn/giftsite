@@ -80,6 +80,22 @@ const items = [
         category: "Clothing",
         link: "https://shop.lululemon.com/p/men-pants/Ripstop-Pull-On-Pant/_/prod20005107?color=0001"
     }
+    ,    {
+        id: 11,
+        name: "SKS S-Blade Fender Set",
+        description: "Fenders for my bike",
+        price: "$52",
+        category: "Gear",
+        link: "https://sks-us.com/products/s-board-s-blade-quickrelease-fender-set-for-700c?srsltid=AfmBOoryvIwuX4obkwSg53PinRn3IV4iXpWJqeS1wJHlocfK5JQa5QUR"
+    },
+    {
+        id: 12,
+        name: "Black Loafers - Size 10D",
+        description: "Use this promo code: E9A92D71E3F21047C ",
+        price: "$87",
+        category: "Clothing",
+        link: "https://www.florsheim.com/shop/style/17058-01.html"
+    }
 ];
 
 // Function to create an item card
