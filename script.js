@@ -59,7 +59,7 @@ const items = [
     {
         id: 8,
         name: "Cologne Discovery Set",
-        description: "Any sample set of new colognes to try. Some I like: Terre d'Hermes, MFK Retro Flair Silver, MFK Masculin Pluriel, Le Labo Rose 31, MFK Aqua Vitae",
+        description: "Any sample set of new colognes to try. Some I like: Terre d'Hermes, MFK Gentle Fluidity Silver, MFK Masculin Pluriel, Le Labo Rose 31, MFK Aqua Vitae",
         price: "$TBD",
         category: "Fragrance",
         link: "https://www.nordstrom.com/sr?origin=keywordsearch&keyword=cologne%20sample%20set%20men"
